@@ -1,0 +1,32 @@
+C:\Users\Predator\Documents\SharpDevelop Projects\termProject\termProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Predator\Documents\SharpDevelop Projects\termProject\termProject\bin\Debug\termProject.exe
+C:\Users\Predator\Documents\SharpDevelop Projects\termProject\termProject\bin\Debug\termProject.pdb
+C:\Users\Predator\Documents\SharpDevelop Projects\termProject\termProject\bin\Debug\MySql.Data.dll
+C:\Users\Predator\Documents\SharpDevelop Projects\termProject\termProject\obj\x86\Debug\termProject.exe
+C:\Users\Predator\Documents\SharpDevelop Projects\termProject\termProject\obj\x86\Debug\termProject.pdb
+C:\Users\Predator\Documents\SharpDevelop Projects\termProject\termProject\obj\x86\Debug\termProject.FrmLogin.resources
+C:\Users\Predator\Documents\SharpDevelop Projects\termProject\termProject\obj\x86\Debug\termProject.MainForm.resources
+C:\Users\Predator\Documents\SharpDevelop Projects\termProject\termProject\obj\x86\Debug\termProject.csproj.GenerateResource.Cache
+C:\Users\Predator\Documents\SharpDevelop Projects\termProject\termProject\obj\x86\Debug\termProject.FrmCustomer.resources
+C:\Users\Predator\Documents\SharpDevelop Projects\termProject\termProject\obj\x86\Debug\termProject.FrmPOS.resources
+C:\Users\Predator\Documents\SharpDevelop Projects\termProject\termProject\obj\x86\Debug\termProject.FrmProduct.resources
+C:\Users\Predator\Documents\SharpDevelop Projects\termProject\termProject\obj\x86\Debug\termProject.FrmPOS2.resources
+C:\Users\Predator\Documents\SharpDevelop Projects\termProject\termProject\obj\x86\Debug\termProject.ProductCard.resources
+C:\Users\Predator\Desktop\termProject\termProject\bin\Debug\termProject.exe
+C:\Users\Predator\Desktop\termProject\termProject\bin\Debug\termProject.pdb
+C:\Users\Predator\Desktop\termProject\termProject\bin\Debug\MySql.Data.dll
+C:\Users\Predator\Desktop\termProject\termProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Predator\Desktop\termProject\termProject\obj\x86\Debug\termProject.FrmCustomer.resources
+C:\Users\Predator\Desktop\termProject\termProject\obj\x86\Debug\termProject.FrmLogin.resources
+C:\Users\Predator\Desktop\termProject\termProject\obj\x86\Debug\termProject.FrmPOS.resources
+C:\Users\Predator\Desktop\termProject\termProject\obj\x86\Debug\termProject.FrmProduct.resources
+C:\Users\Predator\Desktop\termProject\termProject\obj\x86\Debug\termProject.MainForm.resources
+C:\Users\Predator\Desktop\termProject\termProject\obj\x86\Debug\termProject.ProductCard.resources
+C:\Users\Predator\Desktop\termProject\termProject\obj\x86\Debug\termProject.csproj.GenerateResource.Cache
+C:\Users\Predator\Desktop\termProject\termProject\obj\x86\Debug\termProject.exe
+C:\Users\Predator\Desktop\termProject\termProject\obj\x86\Debug\termProject.pdb
+C:\Users\Predator\Desktop\termProject\termProject\obj\x86\Debug\termProject.FrmInventory.resources
+C:\Users\Predator\Desktop\termProject\termProject\obj\x86\Debug\termProject.FrmReport.resources
+C:\Users\Predator\Desktop\termProject\termProject\obj\x86\Debug\termProject.FrmOrders.resources
+C:\Users\Predator\Desktop\termProject\termProject\obj\x86\Debug\termProject.FrmEmployee.resources
+C:\Users\Predator\Desktop\termProject\termProject\obj\x86\Debug\termProject.FrmRegister.resources
